@@ -1,6 +1,6 @@
 <template>
     <ContentField>
-        mybot
+        RankList
     </ContentField>
 </template>
 

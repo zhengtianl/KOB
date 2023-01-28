@@ -1,6 +1,6 @@
 <template>
     <ContentField>
-        mybot
+        record
     </ContentField>
 </template>
 
